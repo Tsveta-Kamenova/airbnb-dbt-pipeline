@@ -87,6 +87,14 @@ flowchart TD
     FR --> FM
     FM --> D
 
+<img width="1827" height="873" alt="image" src="https://github.com/user-attachments/assets/488b3ccc-30f2-4926-a734-e15ee74c542e" />
+
+<img width="1284" height="868" alt="image" src="https://github.com/user-attachments/assets/5dd8fdb8-1a78-411f-8d2b-32fc97df4af3" />
+ 
+<img width="1574" height="858" alt="image" src="https://github.com/user-attachments/assets/1ba32fdf-9f7a-4ca1-b251-fe2b4691daf3" />
+ 
+<img width="1882" height="521" alt="image" src="https://github.com/user-attachments/assets/4c60a6f8-e6fc-4313-8d0c-66f6540c6cbb" />
+
 ---
 
 ✅ Data Quality
