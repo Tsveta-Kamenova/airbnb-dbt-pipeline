@@ -1,0 +1,18 @@
+version: 2
+
+exposures:
+  - name: executive_dashboard
+    label: Executive Dashboard
+    type: dashboard
+    maturity: low
+    url: https://cbc5a535.us1a.app.preset.io/superset/dashboard/p/BEzW8d085AY/
+    description: Executive Dashboard about Airbnb listings and hosts
+      
+
+    depends_on:
+      - ref('dim_listings_w_hosts')
+      - ref('mart_full_moon_reviews')
+
+    owner:
+      name: Tsveta Kamenova
+      email: tsv.kamenova@gmail.com
