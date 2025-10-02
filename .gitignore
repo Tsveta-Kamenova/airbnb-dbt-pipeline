@@ -1,0 +1,48 @@
+# ==========================
+# DBT build artifacts
+# ==========================
+target/
+dbt_packages/
+logs/
+
+# ==========================
+# Python virtual environment
+# ==========================
+venv/
+
+# ==========================
+# Local dbt profile (contains secrets)
+# ==========================
+profiles.yml
+.env
+
+# ==========================
+# IDE / OS specific
+# ==========================
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Python cache / bytecode
+# ==========================
+__pycache__/
+*.pyc
+
+# ==========================
+# Jupyter notebooks
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Optional sensitive / key files
+# ==========================
+*.key
+*.pem
+*.crt
+*.pfx
+
+# ==========================
+# Ignore large Power BI files
+# ==========================
+dashboards/*.pbix
