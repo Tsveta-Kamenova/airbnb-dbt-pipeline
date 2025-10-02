@@ -55,7 +55,7 @@ Dashboards / Analytics
 
 
 ### dbt Exposures with Preset.io (sample)
-<img width="1892" height="832" alt="Preset io" src="https://github.com/user-attachments/assets/1e3f9f1f-d9dd-491b-94ff-1afdc169a0f1" />
+<img width="1882" height="521" alt="image" src="https://github.com/user-attachments/assets/4c60a6f8-e6fc-4313-8d0c-66f6540c6cbb" />
 
 
 ### Dagster
