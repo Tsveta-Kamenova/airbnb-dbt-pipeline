@@ -115,7 +115,5 @@ flowchart TD
 - Review sentiment analysis
 - Full moon review patterns 🌕
 
-  - [View the Dashboard](./Airbnb_FullMoon_Reviews.pbix)  
-
-<img width="1517" height="853" alt="image" src="https://github.com/user-attachments/assets/1d7ee8a3-cf5c-466c-8ea2-92bc41e49ab3" />
+  <img width="1517" height="853" alt="image" src="https://github.com/user-attachments/assets/1d7ee8a3-cf5c-466c-8ea2-92bc41e49ab3" />
 
