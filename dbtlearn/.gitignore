@@ -1,0 +1,22 @@
+# ---- DBT build artifacts ----
+target/
+dbt_packages/
+dbt_modules/
+logs/
+dbt_logs/
+
+# ---- Python virtual environment ----
+venv/
+
+# ---- IDE / OS specific ----
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- Other common ignores ----
+__pycache__/
+*.pyc
+
+
+# dbt profiles (Snowflake credentials live here)
+profiles.yml
